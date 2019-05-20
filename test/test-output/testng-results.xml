@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-05-17T09:18:33Z" name="Default suite" finished-at="2019-05-17T09:18:49Z" duration-ms="16023">
+    <groups>
+    </groups>
+    <test started-at="2019-05-17T09:18:33Z" name="Default test" finished-at="2019-05-17T09:18:49Z" duration-ms="16023">
+      <class name="bonus.test.TestBase">
+        <test-method signature="setup()[pri:0, instance:bonus.test.TestBase@29f69090]" started-at="2019-05-17T09:18:33Z" name="setup" finished-at="2019-05-17T09:18:49Z" duration-ms="16007" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- bonus.test.TestBase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
